@@ -1,6 +1,6 @@
 2/15/2023
 
-- Theory is so epic and cool (Prof. Shawn Grahm is on the brink)
+- Theory is so epic and cool (Prof. Shawn Grahm is on the brink somebody help him)
 
 - Semaphores were an existing form of quick communication when the telegraph was invented
 	- This created reluctance to adopt the telegraph as semephores had already had so much invested in them

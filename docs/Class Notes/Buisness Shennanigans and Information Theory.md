@@ -1,7 +1,8 @@
 March 1st 2023
 
-# Graham Bell and his Buisness Adventures 
-#bell
+# Graham Bell and his Buisness Adventures
+tags: #bell 
+
 ### At The end of the 19th century 'networks' were not a novel idea
 -  Gas, Water, Sewer, and Electical netorks were appearing
 - Graham Bell did some dweelings
