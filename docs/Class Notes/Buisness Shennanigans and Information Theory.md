@@ -27,8 +27,8 @@ tags: #bell
 - The system was killed at one point by *The Carrington Event*
 - Electrical interference was common because of trolleys, storms, and whatnot
 ## Bell in Wartime
-### Even durring wartime Bell labs allowed their researchers to basically research whatever they want
-### Someone in bell labs was working on firing systems for the war founded information theory
+- Even durring wartime Bell labs allowed their researchers to basically research whatever they want
+- Someone in bell labs was working on firing systems for the war founded information theory
 ### The foundations of AND, OR, and NOT were made in this lab in 1938
 - The idea of using electrical signals to do truth tests was born (the logical circuit was created)
 - Logical operations are the foundations of computers today
