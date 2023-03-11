@@ -1,4 +1,4 @@
-site_name: Samuel Abraham - Personal Memex
+site_name: obsidian-mkdocs template
 
 theme:
     name: 'material'
@@ -16,7 +16,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: purple
+      primary: pink
       accent: blue
       toggle:
         icon: material/toggle-switch
