@@ -5,10 +5,7 @@ I appreciate you taking the time to come visit my memex! Durring my time with HI
 
 I hope you enjoy your time here, and maybe even learn something along the way !
 
-## 
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+### Memex Idea Map
 
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, in `Topic 1`
+Will go here
