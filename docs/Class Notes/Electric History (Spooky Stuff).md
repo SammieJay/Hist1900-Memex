@@ -7,7 +7,7 @@
 	- An Italian scientist named Galvani found out that applying electrical currents to frog nerves moved the leg muscles
 	- This inherent electrical interaction would spark intrest
 
-**In Early Medicicne**
+### Early Medicicne
 - in early medicine there was a need for human corpses
 	- These were sourced through criminal corpses, and bodies of people that had little to no family
 
@@ -19,7 +19,7 @@
 	- The discovery of electricity and it's relation to the body led to the writing of Frankenstein
 	- It was thought that electricity had something to do with the life force of a person (what made them alive)
 
-**Static Electricity**
+### Static Electricity
 - The greeks discovered that amber could hold static electricity very well
 	- They didn't know what it was but they knew it made a zappy when rubbed with wool
 
