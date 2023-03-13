@@ -1,4 +1,5 @@
 **Electricity in Nature**
+
 - Mushrooms talk via electrical current
 - Similar to how we do with synapses
 - Electric Eels and some kinds of Catfish use electricity
@@ -25,7 +26,7 @@
 - This scientist guy Pete did an experiment and basically made an early capacitor (his assistant got a big zap)
 - Another experiment basically had 200 people to stand in a big circle holding conductive rods and found how quickly a static shock would travel the circle (which it did basically instantaneously)
 
-**More Early Electrical Experiments**
+- **More Early Electrical Experiments**
 - in the 1800s one of the first batteries was made and we started to be able to use prolonged current as we see it today
 - Hans Christian Orsted
 	- worked out that electric current in a nearby wire will deflect a compas needle
