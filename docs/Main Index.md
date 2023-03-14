@@ -4,7 +4,7 @@
 There are many things to look through here, let me give you a guiding hand, so you can get to the right place. Below I will link to various indices for various types of notes and sources with a brief explanation of each subsection.
 
 ### Atomic Notes
- [[0-Atomic Note index|Atomic Notes - Index]] <br>
+[[0-Atomic Note index|Atomic Notes - Index]] <br>
  Short notes that express specific ideas, a good place to read about intresting shorter ideas.
 
 ### Annotations
