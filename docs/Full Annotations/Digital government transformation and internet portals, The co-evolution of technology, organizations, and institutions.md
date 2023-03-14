@@ -4,7 +4,7 @@ creationDate: 2023-03-13
 annotationDate: 2023-03-13
 uri: https://www.sciencedirect.com/science/article/abs/pii/S0740624X14001257
 ---
-# Digital government transformation and internet portals: The co-evolution of technology, organizations, and institutions
+# Digital government transformation and internet portals
 URL: https://www.sciencedirect.com/science/article/abs/pii/S0740624X14001257
 
 The interconnectedness of information and people causes tangible increases in quality of living
