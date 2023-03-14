@@ -1,5 +1,4 @@
-
-Tags: #information-density #technology #atomic-note 
+Tags: #information-density #technology #progress 
 
 ## How information density relates to technological progress
 - In the past few thousand years humans have gone from storing information on clay tablets, to [[Hist1900-Memex/docs/Class Notes/From Silk To Command Terminals|punch cards]], to multi-terrabyte capacity solid state drives
