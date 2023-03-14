@@ -32,7 +32,7 @@ March 1st 2023
 	- The idea of using electrical signals to do truth tests was born (the logical circuit was created)
 	- Logical operations are the foundations of computers today
 	- While trying to isolate electrical noise they found a way to quantify telephone signals
-	- 
+
 ### Combine informational theory
 - Claude Shannon in 1948 took this Idea and developed a way to think about a message as being composed of two things
 	- The content
