@@ -5,8 +5,8 @@ type: reference
 project: Memex 2
 ---
 
-tags:
-projects:[[]]
+tags: #technology #culture #memex
+projects: Memex 2
 
 ### Reference 
 
@@ -17,9 +17,10 @@ Bush, V. 1945. _As We May Think_. The Atlantic, 1 July 1945. Available at [https
 
 ### Summary & Key Take Aways
 
-Discussions and predictions on the direction of information technology from the perspective of someone in 1945. Bush is talking about how technology is affecting the people of his time. He explains his idea of a memex and what that might look like in the future. And while I admire his optimism, I think Bush failed to realise the potential chaos that such interconnectedness might bring to a society.
+Discussions and predictions on the direction of information technology from the perspective of someone in 1945. Bush is talking about how technology is affecting the people of his time. He explains his idea of a memex and what that might look like in the future. Bush is very optimistic about the level of organization and standardization that may come from the internet. In reality, the internet became much more of a messy web of resources, entertainment, and communications. 
+
+Bush is almost "coining" the idea of the Memex here. The idea of an individual's research all being placed into the same repertoire, that repertoire being their memex
 
 --- 
 
 ### Links
-Put any links to separate notes you have teased out here.
