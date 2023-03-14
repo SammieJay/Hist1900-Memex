@@ -187,7 +187,7 @@ Here is an example of a technology that was the right idea at the wrong time. So
 [^1]: [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) | [syndication link](tk) 
 
 ---
-tags: 
+tags:
 links:  
 - broader terms (BT):  
 - narrower terms (NT):  

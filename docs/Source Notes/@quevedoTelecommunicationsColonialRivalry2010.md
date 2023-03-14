@@ -16,6 +16,8 @@ Quevedo, JM. 2010 Telecommunications and Colonial Rivalry: European Telegraph Ca
 
 ### Summary & Key Take Aways
 
+Gittleman here is taking a deep dive into the meaning of media and the effects it has on society in the late 19th century. It's a predictive look into the possibility of information networks and the way they could impact the world. 
+
 
 --- 
 
