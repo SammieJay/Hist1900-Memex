@@ -13,6 +13,8 @@ The interconnectedness of information and people causes tangible increases in qu
 ## Source 
 > Access to government portals via the internet has contributed to an information revolution around the world and improved the services that governments offer to their citizens via the Web.[^1]
 
+^7dd04d
+
 [^1]: [Digital government transformation and internet portals: The co-evolution of technology, organizations, and institutions](https://www.sciencedirect.com/science/article/abs/pii/S0740624X14001257) | [syndication link](tk) 
 
 ---

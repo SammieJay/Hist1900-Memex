@@ -22,5 +22,5 @@ The internet has brought about an age of such intense interconnectedness, how co
 [[Can we write a cultural history of the Internet]]
 >How to analyze the culture of the internet
 
-[[Digital government transformation and internet portals The co-evolution of technology, organizations, and institutions]]
+[[Digital government transformation and internet portals, The co-evolution of technology, organizations, and institutions]]
 >How technology and the internet drive cultural change
