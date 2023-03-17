@@ -11,15 +11,16 @@ The internet has brought about an age of such intense interconnectedness, how co
 ---
 ### Citational Information
 
-[[Can we write a cultural history of the Internet]]
-	What would a cultural history of the Internet look like? The question almost makes no sense: the Internet spans the globe and traverses any number of completely distinct human groups. It simply cannot have a single culture.
-[[@turnerCanWeWrite2017]]
+[[Media as Historical Subjects]]
+>"the data of culture": records and documents, the archivable bitsor irreducible pieces of modern culture that seem archivable under prevailing and evolv-ing knowledge structures, and that thus suggest, demand, or defy preservation. Historyin this sense is no less of a cultural production in the past than it is in the present.
+
+[[@quevedoTelecommunicationsColonialRivalry2010]]
 
 ---
 
 ### Related Links
 [[Can we write a cultural history of the Internet]]
-	How to analyze the culture of the internet
+>How to analyze the culture of the internet
 
 [[Digital government transformation and internet portals The co-evolution of technology, organizations, and institutions]]
-	How technology and the internet drive cultural change
+>How technology and the internet drive cultural change
