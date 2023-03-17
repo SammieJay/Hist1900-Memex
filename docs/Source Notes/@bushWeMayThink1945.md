@@ -29,5 +29,3 @@ Bush is almost "coining" the idea of the Memex here. The idea of an individual's
 
 **Atomic Notes
 [[Greed & Capitalism]]
-
-**

@@ -5,3 +5,5 @@
 [[@luna-reyesDigitalGovernmentTransformation2014]]
 
 [[@quevedoTelecommunicationsColonialRivalry2010]]
+
+[[@turnerCanWeWrite2017]]

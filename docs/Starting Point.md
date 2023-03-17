@@ -20,4 +20,4 @@ There are many things to look through here, let me give you a guiding hand, so y
 
 ### Source Notes
  [[0-Source Index|Source Notes - Index]] <br>
- Notes that contian references and summarys from the research I've done. Each note relates to a peive of media I took information from.
+ Notes that contian references and summarys from the research I've done. Each note relates to a piece of media I took information from.
