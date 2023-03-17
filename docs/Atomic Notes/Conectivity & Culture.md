@@ -4,24 +4,22 @@ date: 2023-03-17
 type: literature
 project:
 ---
-tags:: 
-projects::[[]]
+tags:: #connectivity #culture #technology #history 
 
-The internet has brought about an age of such intense interconnectedness, how could something that significant not change the culture around the people who interact with it?
+The internet has brought about an age of such intense interconnectedness, how could something that significant not change the culture around the people who interact with it? While the internet itself may not have an overarching culture, there are many subcultures and groups within the online space that have developed cultures of their own. The internet has almost become its own space, in that it serves as a place for people to interact in way they would otherwise not be able to.
 
 ---
 ### Citational Information
 
-Link to the originating literature note.
+[[Can we write a cultural history of the Internet]]
+	What would a cultural history of the Internet look like? The question almost makes no sense: the Internet spans the globe and traverses any number of completely distinct human groups. It simply cannot have a single culture.
+[[@turnerCanWeWrite2017]]
 
 ---
 
 ### Related Links
+[[Can we write a cultural history of the Internet]]
+	How to analyze the culture of the internet
 
-{Use this section to think about connections. Think about **how the newly created notes connect with your existing knowledge**. If you find some connections, connect the new notes with the older notes already in your system.To find these, ask:
-
--   How does this idea fit into what I already know?
--   What does this idea mean for some other idea that I already have?
--   Does this add to, contradict, or explain another idea that I already have?
-
-You link to other notes by putting them in square brackets. Remember that Obsidian will auto search as you type for notes with those words. Once you've selected a note, you can add the ^ symbol to link to a subheading or block within a note, too.}
+[[Digital government transformation and internet portals The co-evolution of technology, organizations, and institutions]]
+	How technology and the internet drive cultural change
