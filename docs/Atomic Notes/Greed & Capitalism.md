@@ -11,9 +11,9 @@ We often see companies & organizations being the ones to dictate whether emergen
 ---
 ### Related Links
 
-[[Hist1900-Memex/docs/Class Notes/Buisness Shennanigans and Information Theory|Buisness and Information Theory Class Notes]]
+[[Hist1900-Memex/docs/Class Notes/Buisness Shennanigans and Information Theory]]
 >How Bell monopolized the telegraph
 
 
-[[Hist1900-Memex/docs/Class Notes/The Accelerators and Brakes of Techological Progress|Accelerators and Brakes of Technology Class Note]]
+[[Hist1900-Memex/docs/Class Notes/The Accelerators and Brakes of Techological Progress]]
 >How capitalism drove technological evolution
