@@ -16,4 +16,4 @@ An interesting look at the documentation of media and culture. How does it work?
 
 [[Can we write a cultural history of the Internet]]
 [[@turnerCanWeWrite2017]]
-How interconnectedness and information accesibility affects society and what does it mean?
+How interconnectedness and information accessibility affects society and what does it mean?

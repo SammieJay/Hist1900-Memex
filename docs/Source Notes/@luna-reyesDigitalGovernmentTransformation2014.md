@@ -5,8 +5,7 @@ type: reference
 project: Memex 2
 ---
 
-tags::
-projects:[[]]
+tags:: #technology #culture #history #connectivity 
 
 ### Reference 
 
@@ -17,9 +16,7 @@ Luna-Reyes, LF and Gil-Garcia, JR. 2014 Digital government transformation and in
 
 ### Summary & Key Take Aways
 
-*Here type up a 1-2 paragraph concise summary of the article. 
-
-*If there are any key image you want to refer, you can include them here, drop them into the media folder, and then use the ![[]] format (just the filename).
+Reyes gives a good analysis of the consequences and effects of technology and organizational networks. More specifically, how they come about together and work off of each other. Reyes looks into how government portals contribute to "information revolution" around the world, and how this affects the quality of life and the standard of living in many places.
 
 --- 
 
