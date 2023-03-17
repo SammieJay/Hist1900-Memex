@@ -1,6 +1,7 @@
 March 1st 2023
+Tags: #capitalism #technology #progress #history #greed 
 
-### Graham Bell and his Buisness Adventures
+### Graham Bell and his Business Adventures
 
 - At The end of the 19th century 'networks' were not a novel idea
 -  Gas, Water, Sewer, and Electrical networks were appearing

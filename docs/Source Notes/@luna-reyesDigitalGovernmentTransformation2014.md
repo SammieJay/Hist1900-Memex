@@ -21,4 +21,8 @@ Reyes gives a good analysis of the consequences and effects of technology and or
 --- 
 
 ### Links
-Put any links to separate notes you have teased out here.
+**Annotations
+[[Digital government transformation and internet portals The co-evolution of technology, organizations, and institutions]]
+
+**Atomic Notes
+[[]]
