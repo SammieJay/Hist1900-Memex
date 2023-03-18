@@ -4,7 +4,7 @@ creationDate: 2023-03-16
 annotationDate: 2023-03-11
 uri: http://web.mit.edu/uricchio/Public/television/Gitelman.pdf
 ---
-# Gitelman.pdf
+# Media as Historical Subjects
 URL: http://web.mit.edu/uricchio/Public/television/Gitelman.pdf
 
 An interesting definition

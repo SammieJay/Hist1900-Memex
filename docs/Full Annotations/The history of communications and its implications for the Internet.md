@@ -2,10 +2,10 @@
 fileType: HypothesisAnnotations
 creationDate: 2023-03-17 
 annotationDate: 2023-03-17
-uri: https://deliverypdf.ssrn.com/delivery.php?ID=890086065101091113018120099091028126050063019065021022098000074071015090097073095079002126077123114123065002007118004023019074073086094067082089107081025104090072121085106007079099026121113&EXT=pdf&INDEX=TRUE
+uri:https://papers.ssrn.com/sol3/papers.cfm?abstract_id=235284
 ---
-# SSRN-id235284.pdf
-URL: https://deliverypdf.ssrn.com/delivery.php?ID=890086065101091113018120099091028126050063019065021022098000074071015090097073095079002126077123114123065002007118004023019074073086094067082089107081025104090072121085106007079099026121113&EXT=pdf&INDEX=TRUE
+# The History of Communications and Its Implications for the Internet
+URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=235284
 
 As we've learned
 &mdash;[[]]
@@ -13,7 +13,7 @@ As we've learned
 ## Source 
 > The Internet is the latest in a long succession of communication technologies.[^1]
 
-[^1]: [SSRN-id235284.pdf](https://deliverypdf.ssrn.com/delivery.php?ID=890086065101091113018120099091028126050063019065021022098000074071015090097073095079002126077123114123065002007118004023019074073086094067082089107081025104090072121085106007079099026121113&EXT=pdf&INDEX=TRUE) | [syndication link](tk) 
+[^1]: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=235284| [syndication link](tk) 
 
 ---
 tags: 
@@ -32,7 +32,7 @@ As the system develops, access to the system becomes easier to encourage expansi
 ## Source 
 > There are repeating patterns in the histories of communication technologies, including ordinarymail, the telegraph, the telephone, and the Internet. In particular, the typical story for each service isthat quality rises, prices decrease, and usage increases to produce increased total revenues. At the sametime, prices become simpler.[^1]
 
-[^1]: [SSRN-id235284.pdf](https://deliverypdf.ssrn.com/delivery.php?ID=890086065101091113018120099091028126050063019065021022098000074071015090097073095079002126077123114123065002007118004023019074073086094067082089107081025104090072121085106007079099026121113&EXT=pdf&INDEX=TRUE) | [syndication link](tk) 
+[^1]: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=235284| [syndication link](tk) 
 
 ---
 tags: 
@@ -51,7 +51,7 @@ Systems hope to come together and become one, but by the will of the user as the
 ## Source 
 > The history of communication suggests strongly that as services become less expensive and aremore widely used, the balance shifts away from the need to segment the market, and thereby to extractmaximal revenues and to maximize utilization efficiency of the infrastructure. Instead, customer desirefor simplicity becomes dominant.[^1]
 
-[^1]: [SSRN-id235284.pdf](https://deliverypdf.ssrn.com/delivery.php?ID=890086065101091113018120099091028126050063019065021022098000074071015090097073095079002126077123114123065002007118004023019074073086094067082089107081025104090072121085106007079099026121113&EXT=pdf&INDEX=TRUE) | [syndication link](tk) 
+[^1]: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=235284| [syndication link](tk) 
 
 ---
 tags: 
@@ -70,7 +70,7 @@ This indicates the evolution beyond a network as a tool and seems to show how th
 ## Source 
 > Simplicity is likely to be much more important on the Internet than in other communication ser-vices. Customers do not care about the network, they care about their applications. Those applicationsare growing rapidly in number, variety, and importance, as the Internet becomes what Bill Gates hascalled the “digital nervous system” of more and more organizations[^1]
 
-[^1]: [SSRN-id235284.pdf](https://deliverypdf.ssrn.com/delivery.php?ID=890086065101091113018120099091028126050063019065021022098000074071015090097073095079002126077123114123065002007118004023019074073086094067082089107081025104090072121085106007079099026121113&EXT=pdf&INDEX=TRUE) | [syndication link](tk) 
+[^1]: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=235284| [syndication link](tk) 
 
 ---
 tags: 
@@ -89,7 +89,7 @@ The user is of upmost importance because the network is nothing without users
 ## Source 
 > The general conclusion is that we should strive for simplicity, even at the cost of efficiency. That isthe world of communications has been evolving for the past two centuries, and that is how it is likelyto evolve in the future. There will be opportunities for optimization of the network, but they will haveto be pursued in ways that do not burden the end users[^1]
 
-[^1]: [SSRN-id235284.pdf](https://deliverypdf.ssrn.com/delivery.php?ID=890086065101091113018120099091028126050063019065021022098000074071015090097073095079002126077123114123065002007118004023019074073086094067082089107081025104090072121085106007079099026121113&EXT=pdf&INDEX=TRUE) | [syndication link](tk) 
+[^1]: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=235284| [syndication link](tk) 
 
 ---
 tags: 
@@ -108,7 +108,7 @@ People care most about connectivity
 ## Source 
 > Historically, the willingness to pay for entertainment and similar broadcastinformation has been low compared to that of spontaneous point-to-point communication[^1]
 
-[^1]: [SSRN-id235284.pdf](https://deliverypdf.ssrn.com/delivery.php?ID=890086065101091113018120099091028126050063019065021022098000074071015090097073095079002126077123114123065002007118004023019074073086094067082089107081025104090072121085106007079099026121113&EXT=pdf&INDEX=TRUE) | [syndication link](tk) 
+[^1]: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=235284 | [syndication link](tk) 
 
 ---
 tags: 
@@ -127,7 +127,7 @@ While content is enjoyed by many, some hope mostly just to have connection and h
 ## Source 
 > This sug-gests that the current preoccupation with “content” is misplaced, and that the future of the Internet is inenabling the myriad of connections between people, and between people and machines, connections inwhich most of the data flows will not be seen by any human eye, nor heard by any human ear.[^1]
 
-[^1]: [SSRN-id235284.pdf](https://deliverypdf.ssrn.com/delivery.php?ID=890086065101091113018120099091028126050063019065021022098000074071015090097073095079002126077123114123065002007118004023019074073086094067082089107081025104090072121085106007079099026121113&EXT=pdf&INDEX=TRUE) | [syndication link](tk) 
+[^1]: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=235284 | [syndication link](tk) 
 
 ---
 tags: 
@@ -146,7 +146,7 @@ The internet is only one of the many interconnected informative systems we as hu
 ## Source 
 > This is remarkable in that the historyconsidered here covers many services, including regular mail, the telegraph, and the telephone[^1]
 
-[^1]: [SSRN-id235284.pdf](https://deliverypdf.ssrn.com/delivery.php?ID=890086065101091113018120099091028126050063019065021022098000074071015090097073095079002126077123114123065002007118004023019074073086094067082089107081025104090072121085106007079099026121113&EXT=pdf&INDEX=TRUE) | [syndication link](tk) 
+[^1]: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=235284| [syndication link](tk) 
 
 ---
 tags: 
@@ -165,7 +165,7 @@ These relate to how the internet is maintained and regulated
 ## Source 
 > Thishistory also covers many types of economic environments, including government monopoly, privateuntrammelled monopoly, government regulated monopoly, and competitive markets.[^1]
 
-[^1]: [SSRN-id235284.pdf](https://deliverypdf.ssrn.com/delivery.php?ID=890086065101091113018120099091028126050063019065021022098000074071015090097073095079002126077123114123065002007118004023019074073086094067082089107081025104090072121085106007079099026121113&EXT=pdf&INDEX=TRUE) | [syndication link](tk) 
+[^1]: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=235284| [syndication link](tk) 
 
 ---
 tags: 
@@ -184,7 +184,7 @@ The system HUNGERS
 ## Source 
 > The only constantfactors have been relentless technical progress and growth in volume of communications[^1]
 
-[^1]: [SSRN-id235284.pdf](https://deliverypdf.ssrn.com/delivery.php?ID=890086065101091113018120099091028126050063019065021022098000074071015090097073095079002126077123114123065002007118004023019074073086094067082089107081025104090072121085106007079099026121113&EXT=pdf&INDEX=TRUE) | [syndication link](tk) 
+[^1]: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=235284| [syndication link](tk) 
 
 ---
 tags: 
@@ -203,7 +203,7 @@ We saw this with the changing of net neutrality laws
 ## Source 
 > The Internet has historically treated all packets equally, and pricing has been predominantly throughflat monthly rates depending only on the size of access links, not on usage. Today, there is a strongmomentum towards changing both of these principles.[^1]
 
-[^1]: [SSRN-id235284.pdf](https://deliverypdf.ssrn.com/delivery.php?ID=890086065101091113018120099091028126050063019065021022098000074071015090097073095079002126077123114123065002007118004023019074073086094067082089107081025104090072121085106007079099026121113&EXT=pdf&INDEX=TRUE) | [syndication link](tk) 
+[^1]: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=235284| [syndication link](tk) 
 
 ---
 tags: 

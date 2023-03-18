@@ -1,6 +1,6 @@
 ---
 Title: [@odlyzkoHistoryCommunicationsIts2000]
-date: {{date}}
+date: {{2023}}
 type: reference
 project:
 ---
@@ -16,9 +16,7 @@ Odlyzko, A. 2000 The History of Communications and its Implications for the Inte
 
 ### Summary & Key Take Aways
 
-*Here type up a 1-2 paragraph concise summary of the article. 
-
-*If there are any key image you want to refer, you can include them here, drop them into the media folder, and then use the ![[]] format (just the filename).
+The internet was built in service of those who use it, Odlyzko seeks to explain why it's important that the internet remains in service of the user. He looks into uses and effects of information networks to search for recurring patterns and what they mean. While this topic is very broad, Odylkzo focuses mostly on what is important and what benefits the users of these networks. Understanding these topics can help people understand where the internet is headed in the future and also provides some evidence based advice on how to keep a healthy relationship between the companies that care for and upkeep the internet and it's users.
 
 --- 
 
