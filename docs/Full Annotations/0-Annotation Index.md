@@ -7,13 +7,16 @@ Here you can find links and descriptions
 
 [[Digital government transformation and internet portals, The co-evolution of technology, organizations, and institutions|Digital Government and Internet Portals]]
 > Source: [[@luna-reyesDigitalGovernmentTransformation2014]]
+
 >The history of information revolution and it's effects on society
 
 [[Media as Historical Subjects]] 
 > Source: [[@quevedoTelecommunicationsColonialRivalry2010]]
+
 >An interesting look at the documentation of media and culture. How does it work? Why is it important?
 
 
 [[Can we write a cultural history of the Internet]]
 > Source: [[@turnerCanWeWrite2017]]
+
 >How interconnectedness and information accessibility affects society and what does it mean?
