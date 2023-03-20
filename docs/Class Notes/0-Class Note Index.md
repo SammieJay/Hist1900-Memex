@@ -1,7 +1,7 @@
 # Class Note Index
 
-Here are notes from various classes (in chronological order) 
-and the applicable tags in order of importance
+Here are some notes from various classes (in chronological order) 
+and the applicable tags to each lecture
 
 [[Hist1900-Memex/docs/Class Notes/From Silk To Command Terminals|From Silk To Command Terminals]]
 
