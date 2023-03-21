@@ -1,3 +1,5 @@
+# Accelerators and Brakes of Technological Progress
+Tags: #progress #capitalism #greed #technology #history #electricity 
 2/15/2023
 
 - Theory is so epic and cool (Prof. Shawn Grahm is on the brink somebody help him)

@@ -1,3 +1,5 @@
+
+# Electric History
 ### Electricity in Nature
 - Mushrooms talk via electrical current
 - Similar to how we do with synapses

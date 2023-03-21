@@ -2,19 +2,16 @@
 fileType: HypothesisAnnotations
 creationDate: 2023-03-20 
 annotationDate: 2023-03-21
-uri: https://go-gale-com.proxy.library.carleton.ca/ps/i.do?id=GALE|A201105960&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=15279677&p=AONE&sw=w&enforceAuth=true&linkSource=delayedAuthFullText&userGroupName=ocul_carleton&u=ocul_carleton
+uri: https://link.gale.com/apps/doc/A201105960/AONE?u=ocul_carleton&sid=googleScholar&xid=e1ec8eb6
 ---
-# The internet and youth culture
-URL: https://go-gale-com.proxy.library.carleton.ca/ps/i.do?id=GALE|A201105960&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=15279677&p=AONE&sw=w&enforceAuth=true&linkSource=delayedAuthFullText&userGroupName=ocul_carleton&u=ocul_carleton
+# The Internet and Youth Culture
+URL: https://link.gale.com/apps/doc/A201105960/AONE?u=ocul_carleton&sid=googleScholar&xid=e1ec8eb6|A201105960&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=15279677&p=AONE&sw=w&enforceAuth=true&linkSource=delayedAuthFullText&userGroupName=ocul_carleton&u=ocul_carleton
 
 I can tell you now that it's significant
 &mdash;[[]]
 
 ## Source 
-> an increasing number of young adolescents
-in Western countries, scholars and commentators are debating the impact of
-these new media on the activities, social relationships, and worldviews of
-the younger generations.[^1]
+> an increasing number of young adolescents in Western countries, scholars and commentators are debating the impact of these new media on the activities, social relationships, and worldviews of the younger generations.[^1]
 
 [^1]: [The internet and youth culture](https://go-gale-com.proxy.library.carleton.ca/ps/i.do?id=GALE|A201105960&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=15279677&p=AONE&sw=w&enforceAuth=true&linkSource=delayedAuthFullText&userGroupName=ocul_carleton&u=ocul_carleton) | [syndication link](tk) 
 

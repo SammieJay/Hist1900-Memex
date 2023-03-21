@@ -1,3 +1,6 @@
+
+# Buisness Shenanigans and Information Theory
+
 March 1st 2023
 Tags: #capitalism #technology #progress #history #greed 
 
