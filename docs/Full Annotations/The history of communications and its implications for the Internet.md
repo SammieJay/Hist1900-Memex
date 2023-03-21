@@ -35,8 +35,8 @@ As the system develops, access to the system becomes easier to encourage expansi
 [^1]: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=235284| [syndication link](tk) 
 
 ---
-tags: 
-links:  [[progress]] [[technology]] 
+tags: #progress #technology
+links:   
 - broader terms (BT):  
 - narrower terms (NT):  
 - related terms (RT):  
