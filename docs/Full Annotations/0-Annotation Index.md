@@ -3,7 +3,8 @@ Here you can find links and descriptions
 
 [[Hist1900-Memex/docs/Full Annotations/As We May Think|As We May Think]]
 > Source: [[@bushWeMayThink1945]]
->A look into the definition of media and what it means for society
+> 
+> A look into the definition of media and what it means for society
 
 [[Digital government transformation and internet portals, The co-evolution of technology, organizations, and institutions|Digital Government and Internet Portals]]
 > Source: [[@luna-reyesDigitalGovernmentTransformation2014]]
