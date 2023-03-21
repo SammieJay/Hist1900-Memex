@@ -13,6 +13,6 @@ In the past few thousand years, humans have gone from storing information on cla
 
 ### Related Links
 
-[[Hist1900-Memex/docs/Class Notes/From Silk To Command Terminals#^5cce82|From Silk to Command Terminals (Punch Cards)]]
+[[From Silk To Command Terminals#^b33320]]
 >In these class notes I talk about the early history of programmable memory in the form of punch cards
 
