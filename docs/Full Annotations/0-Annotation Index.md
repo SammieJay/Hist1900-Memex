@@ -3,7 +3,6 @@ Here you can find links and descriptions
 
 [[Hist1900-Memex/docs/Full Annotations/As We May Think|As We May Think]]
 > Source: [[@bushWeMayThink1945]]
-
 >A look into the definition of media and what it means for society
 
 [[Digital government transformation and internet portals, The co-evolution of technology, organizations, and institutions|Digital Government and Internet Portals]]
@@ -21,3 +20,9 @@ Here you can find links and descriptions
 > Source: [[@turnerCanWeWrite2017]]
 
 >How interconnectedness and information accessibility affects society and what does it mean?
+
+
+[[Annotation Link]]
+> Source: [[Source Note Link]]
+
+>description
