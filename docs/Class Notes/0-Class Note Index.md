@@ -3,7 +3,7 @@
 Here are some notes from various classes (in chronological order) 
 and the applicable tags to each lecture
 
-[[From Silk To Command Terminals]]]
+[[From Silk To Command Terminals]]
 
  #technology #progress #language  #culture #history #trade
 

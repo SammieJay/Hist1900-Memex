@@ -42,7 +42,7 @@ Romans started trying to improve looms and the technology around them as silk wa
 - It used punchcards to program the behavior therefore it is an exremely early example of *Programmable Memory*
 
 ### Punch Cards
-^b33320
+^b33320 
 - Jacquard did not invent the punch card
 - Louis Faucon/Falcon was the first to do that with looms but Jacquard was the most influential
 

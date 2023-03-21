@@ -21,4 +21,9 @@ As seen with the development of wireless technology, more robust networks, and m
 
 ### Related Links
 
-[[Hist1900-Memex/docs/Class Notes/Buisness Shennanigans and Information Theory]]
+[[Buisness Shennanigans and Information Theory]]
+>Bell had a lab for his company that did immense amounts of research in wartime and I talk about it in these notes
+
+["Enigma Machine" in Micheal Roy's Memex](https://themike92.github.io/memex-HIST1900/Thoughts/Cryptology/Enigma%20Machine/)
+> An atomic note about the Enigma machine, a machine built by the British to decipher German encryption from a colleague's Memex
+
