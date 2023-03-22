@@ -1,4 +1,4 @@
-# Class Note Index
+# CLASS NOTES INDEX
 
 Here are some notes from various classes (in chronological order) 
 and the applicable tags to each lecture
