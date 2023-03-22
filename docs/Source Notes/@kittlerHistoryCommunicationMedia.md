@@ -2,7 +2,7 @@
 Title: [@kittlerHistoryCommunicationMedia]
 date: 2023-03-20
 type: reference
-project:
+project: Memex 2
 ---
 
 tags::
@@ -22,4 +22,8 @@ Here Kittler goes into media, and it's past and how it's relevant to us. He desc
 --- 
 
 ### Links
-Put any links to separate notes you have teased out here.
+[[Media as Historical Subjects]]
+> documentation of media and culture
+
+[[As We May Think]]
+> definitions of media and how it affects society

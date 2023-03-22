@@ -21,4 +21,6 @@ Kleinrock was an early developer of the internet and in this article he describe
 --- 
 
 ### Links
-Put any links to separate notes you have teased out here.
+
+[[Wireless Telegraphy]]
+>early advances in wireless tech, which will eventually lead to wireless internet connections

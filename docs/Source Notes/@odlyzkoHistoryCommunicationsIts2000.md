@@ -21,4 +21,5 @@ The internet was built in service of those who use it, Odlyzko seeks to explain 
 --- 
 
 ### Links
-Put any links to separate notes you have teased out here.
+[[The Downsides of Distance Work]]
+>how distance work is a tool against it's users

@@ -20,4 +20,5 @@ Tworek describes how WWI brought about progression in the way of wireless techno
 --- 
 
 ### Links
-Put any links to separate notes you have teased out here.
+[[War Driven Innovation]]
+>how war drives innovation in technology

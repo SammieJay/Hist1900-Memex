@@ -5,6 +5,7 @@ annotationDate: 2023-03-11
 uri: https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
 ---
 # As We May Think
+
 URL: https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
 
 This is an interesting Idea, that one could create a language that is easily translated into logic (or some other computing friendly system) but I honestly doubt that it this will come to fruition. The time where languages are developed and spread aside from code seems to be long past. Perhaps I will be proven wrong one day

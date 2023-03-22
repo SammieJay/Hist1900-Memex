@@ -21,4 +21,11 @@ Turner here is taking a deep look into how the construction of such an advanced 
 --- 
 
 ### Links
-Put any links to separate notes you have teased out here.
+[[Conectivity & Culture]]
+>how being connected impacts culture
+
+[[Distance Matters]]
+> distance work and how it affects the worker
+
+[[The Downsides of Distance Work]]
+> more on distance work

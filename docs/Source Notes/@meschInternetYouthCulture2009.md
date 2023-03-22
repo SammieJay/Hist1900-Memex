@@ -20,4 +20,8 @@ This article is one that I relate to heavily, having grown up in and around the 
 --- 
 
 ### Links
-Put any links to separate notes you have teased out here.
+[[Growing Up With The Internet]]
+>what is means to have grown up with the internet
+
+[[Can we write a cultural history of the Internet]]
+> how the internet has a culture and how we can study it

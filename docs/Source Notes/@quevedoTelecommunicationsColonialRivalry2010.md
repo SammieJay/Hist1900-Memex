@@ -21,4 +21,8 @@ Gitleman here is taking a deep dive into the meaning of media and the effects it
 --- 
 
 ### Links
-Put any links to separate notes you have teased out here.
+[[As We May Think]]
+> what is media? How does it affect the world around us?
+
+[[Media as Historical Subjects]]
+> the documentation of media and how it works
