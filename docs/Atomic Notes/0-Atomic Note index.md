@@ -1,5 +1,6 @@
 # ATOMIC NOTES INDEX
 
+### Memex 2
 [[Greed & Capitalism]]
 >Companies and organizations and their exploitative nature
 
@@ -20,3 +21,6 @@
 
 [[War Driven Innovation]]
 >How wars drive leaps in technological innovation and what has come of that
+
+### Memex 3
+
