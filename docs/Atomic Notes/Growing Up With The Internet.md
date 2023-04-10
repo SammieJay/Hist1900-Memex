@@ -10,7 +10,7 @@ My generation (Gen Z) is often looked at as the "I pad generation" or the "inter
 
 ---
 ### Citational Information
-[[The Internet and Youth Culture]]
+[[hist1900-materials/Annotations/Memex 2/The internet and youth culture]]
 > an increasing number of young adolescents in Western countries, scholars and commentators are debating the impact of these new media on the activities, social relationships, and worldviews of the younger generations.
 
 [[@meschInternetYouthCulture2009]]
