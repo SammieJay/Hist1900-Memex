@@ -28,4 +28,4 @@ Bush is almost "coining" the idea of the Memex here. The idea of an individual's
 [[hist1900-materials/Annotations/As We May Think|As We May Think]]
 
 **Atomic Notes
-[[Hist1900-Memex/docs/Atomic Notes/Greed & Capitalism]]
+[[Greed & Capitalism]]

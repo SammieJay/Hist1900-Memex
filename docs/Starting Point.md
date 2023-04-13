@@ -7,10 +7,9 @@ There are many things to look through here, let me give you a guiding hand, so y
  [[0-Source Index|Source Notes - Index]] <br>
  Notes that contain references and summaries from the research I've done. Each note relates to a piece of media I took information from. This is where I personally recommend you start.
 
-
-### Atomic Notes
- [[0-Atomic Note index|Atomic Notes - Index]] <br>
- Short notes that express specific ideas. A good place to start if you want to learn about specific thoughts on a distinct topic.
+Notes & Thoughts
+ [[0-Notes Index|Notes & Thoughts - Index]] <br>
+ Some notes or thoughts I've had on specific ideas from the rresearch I've done A good place to start if you want to learn about specific thoughts on a distinct topic.
 
 
 ### Annotations
@@ -20,7 +19,7 @@ There are many things to look through here, let me give you a guiding hand, so y
 
 ### Class Notes
  [[0-Class Note Index|Class Notes - Index]]<br>
- Notes from class, beware all ye go here. My notes from class can be somewhat unhinged and perhaps bordering on unaccademic, but if you'd like to see my takeaways from various lectures this is the place to go.
+ Notes from class, beware all ye go here. My notes from class can be somewhat unhinged and perhaps bordering on nonacademic, but if you'd like to see my takeaways from various lectures, this is the place to go.
 
 
 

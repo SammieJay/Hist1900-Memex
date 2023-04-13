@@ -1,6 +1,7 @@
 # ANNOTATIONS INDEX
 Here you can find links and descriptions 
 
+## Memex 1 & 2
 [[Hist1900-Memex/docs/Full Annotations/As We May Think|As We May Think]]
 > Source: [[@bushWeMayThink1945]]
 > 
@@ -55,3 +56,11 @@ Here you can find links and descriptions
 > Source: [[@tworekWirelessTelegraphyInternational]]
 > 
 >The history of wireless communication and how it was used in WWI
+
+
+## Memex 3
+
+[[Mydoom, The Fascinating Story Behind the World's Fastest Computer Virus]]
+> Source: [[@jamesMydoomFascinatingStory2021]]
+> 
+>  The story behind one of the world's earliest and most damaging computer viruses

@@ -1,4 +1,4 @@
-# ATOMIC NOTES INDEX
+# NOTES & THOUGHTS INDEX
 
 ### Memex 2
 [[Greed & Capitalism]]

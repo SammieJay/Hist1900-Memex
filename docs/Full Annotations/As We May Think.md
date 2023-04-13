@@ -37,7 +37,7 @@ Space efficiency in our stored information will probably never stop being import
 
 ---
 tags: 
-links:  [[information density]] [[technology]] 
+links:  [[Information Density]] [[technology]] 
 - broader terms (BT):  
 - narrower terms (NT):  
 - related terms (RT):  
@@ -56,7 +56,7 @@ This seems laughable by today's standards, the density at which we can store inf
 
 ---
 tags: 
-links:  [[information density]] 
+links:  [[Information Density]] 
 - broader terms (BT):  
 - narrower terms (NT):  
 - related terms (RT):  
