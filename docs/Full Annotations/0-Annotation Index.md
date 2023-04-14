@@ -64,3 +64,11 @@ Here you can find links and descriptions
 > Source: [[@jamesMydoomFascinatingStory2021]]
 > 
 >  The story behind one of the world's earliest and most damaging computer viruses
+
+
+[[Spatial Hypertext, An Alternative to Navigational and Semantic Links]]
+>  Source: [[@shipmanSpatialHypertextAlternative1999]]
+>  
+>  How hypertext might have looked if it had a visual mapping component to it
+
+

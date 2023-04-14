@@ -1,5 +1,7 @@
 # SOURCE NOTES INDEX
 
+## Memex 1 & 2
+
 [[@bushWeMayThink1945]]
 >An interesting article from the past predicting information technology of the present day
 
@@ -38,3 +40,11 @@
 
 [[@tworekWirelessTelegraphyInternational]]
 > A look at wartime and how it brought about innovation, but specifically technology in wireless communications in the first world war
+
+## Memex 3
+
+[[@shipmanSpatialHypertextAlternative1999]]
+> yes
+
+[[@jamesMydoomFascinatingStory2021]]
+> yes

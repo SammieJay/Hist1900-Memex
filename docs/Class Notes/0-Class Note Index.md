@@ -33,3 +33,5 @@ and the applicable tags to each lecture
 
 [[Google... Don't Be Evil]] #greed #capitalism #progress #connectivity #history #security #oppression 
 > Well well well... if it isn't the big man himself. A welcome to Google and what that did to the internet space
+
+

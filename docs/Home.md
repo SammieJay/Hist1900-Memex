@@ -9,3 +9,12 @@ I hope you enjoy your time here, and maybe even learn something along the way!
 ### Memex Content Map
 
 ![[Memex 2 Map.JPG]]
+### Reference Material
+
+**Author Info**
+Name: Sam Abraham
+*That's all folks, I don't want to dox myself*
+
+**Link to all my outside references**
+[[External Notes]]
+> This is a list of all my references to my peer's memex's

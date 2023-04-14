@@ -5,8 +5,8 @@ type: reference
 project: Memex 2
 ---
 
-tags::
-projects:[[]]
+tags:: #progress #connectivity #history 
+projects: Memex 2
 
 ### Reference 
 
@@ -16,7 +16,7 @@ Kleinrock, L. 2010 An early history of the internet [History of Communications].
 
 ### Summary & Key Take Aways
 
-Kleinrock was an early developer of the internet and in this article he describes his work and his journey in bringing about what we have today. He describes the creation of the ARPANET, which many consider to be the first version of the internet. Kleinrock explains however, that the history of the early internet is not as simple as 'it started with the ARPANET' and I would agree. He makes sure that the reader unsderstand the sheer ammound of people and time that went into the modern Internet. And that is one of my key takaways for this course in general.
+Kleinrock was an early developer of the internet, and in this article he describes his work and his journey in bringing about what we have today. He describes the creation of the ARPANET, which many consider to be the first version of the internet. Kleinrock explains, however, that the history of the early internet is not as simple as 'it started with the ARPANET' and I would agree. He makes sure that the reader understand the sheer amount of people and time that went into the modern Internet. And that is one of my key takeaways for this course in general.
 
 --- 
 
@@ -24,3 +24,6 @@ Kleinrock was an early developer of the internet and in this article he describe
 
 [[Wireless Telegraphy]]
 >early advances in wireless tech, which will eventually lead to wireless internet connections
+
+[[@lukasikWhyArpanetWas2011]]
+> Why we wanted to build the ARPANET in the first place

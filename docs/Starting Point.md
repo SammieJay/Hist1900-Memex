@@ -22,4 +22,3 @@ Notes & Thoughts
  Notes from class, beware all ye go here. My notes from class can be somewhat unhinged and perhaps bordering on nonacademic, but if you'd like to see my takeaways from various lectures, this is the place to go.
 
 
-
