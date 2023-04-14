@@ -7,6 +7,7 @@ project: Memex 3
 
 tags:: #hypertext #progress #language #technology 
 projects: Memex 3
+[[Spatial Hypertext, An Alternative to Navigational and Semantic Links]]
 
 ### Reference 
 

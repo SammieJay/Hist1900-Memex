@@ -5,8 +5,9 @@ type: reference
 project:
 ---
 
-tags::
-projects:[[]]
+tags:: #history #connectivity #electricity #capitalism 
+projects: Memex 2
+[[The History of Communications and Its Implications for the Internet]]
 
 ### Reference 
 
@@ -23,3 +24,6 @@ The internet was built in service of those who use it, Odlyzko seeks to explain 
 ### Links
 [[The Downsides of Distance Work]]
 >how distance work is a tool against it's users
+
+[[Greed & Capitalism]]
+> How corporate greed can affect the populace

@@ -6,7 +6,8 @@ project: Memex 2
 ---
 
 tags:: #connectivity #technology #history 
-projects:[[]]
+projects: Memex 2
+[[Can we write a cultural history of the Internet]]
 
 ### Reference 
 

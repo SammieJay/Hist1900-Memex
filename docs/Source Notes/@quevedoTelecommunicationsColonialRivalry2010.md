@@ -6,6 +6,7 @@ project: Memex 2
 ---
 
 tags: #culture #history #progress #language 
+[[Media as Historical Subjects]]
 
 ### Reference 
 

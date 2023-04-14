@@ -5,8 +5,9 @@ type: reference
 project: Memex 2
 ---
 
-tags::
-projects:[[]]
+tags:: #greed #work #capitalism #culture #connectivity 
+projects: Memex 2
+[[Distance Matters]]
 
 ### Reference 
 

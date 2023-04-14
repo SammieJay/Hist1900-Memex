@@ -7,6 +7,7 @@ project: Memex 2
 
 tags: #technology #culture #memex #capitalism 
 projects: Memex 2
+[[As We May Think]]
 
 ### Reference 
 

@@ -5,8 +5,9 @@ type: reference
 project: Memex 2
 ---
 
-tags::
-projects:[[]]
+tags:: #progress #technology #security #history #connectivity 
+projects: Memex 2
+[[The History of Communication Media]]
 
 ### Reference 
 

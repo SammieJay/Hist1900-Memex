@@ -7,21 +7,31 @@ project: Memex 3
 
 tags:: #connectivity #culture #history #art
 projects: Memex 3
+[[The Haunting of GeoCities]]
 
 ### Reference 
 
 Reynolds, C and Hallinan, B. 2021 The haunting of GeoCities and the politics of access control on the early Web. _New Media & Society_ 23(11): 3268–3289. DOI: [https://doi.org/10.1177/1461444820951609](https://doi.org/10.1177/1461444820951609).
 
 
+
 ---
 
 ### Summary & Key Take Aways
 
-*Here type up a 1-2 paragraph concise summary of the article. 
+Geocities was an expressive and wholesome internet website making community. Then the fire nation attacked (meaning Yahoo bought the company). Yahoo, having concerns about being potentially prosecuted over site content, was about to impose much harsher terms of service on Geocities which would give Yahoo a lot of control over the site's content. This was the spark that caused one of the most notable strikes or "hauntings" in internet history.
 
-*If there are any key image you want to refer, you can include them here, drop them into the media folder, and then use the ![[]] format (just the filename).
+In mass, Geocities users stripped their sites of content and colour, to post images of the new terms of service being imposed by Yahoo. This was intended to take away the profit potential of Geocities, hitting Yahoo where it hurts. Low and behold, after a while Yahoo caved. They ended up changing the terms of service twice, to better suit the users of Geocities. This marks one of the few rare examples of an internet community fighting for what they deserve, and actually getting it.
 
 --- 
 
 ### Links
-Put any links to separate notes you have teased out here.
+
+[[Greed & Capitalism]]
+> How corporate greed can affect the internet
+
+[[How Much I Love The 90s]]
+> More on Geocities as discussed in class
+
+
+
