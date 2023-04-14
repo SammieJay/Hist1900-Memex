@@ -5,7 +5,7 @@ and the applicable tags to each lecture
 
 ## Memex 1 & 2
 
-[[From Silk To Command Terminals]]  #technology #progress #language  #culture #history #trade
+[[From Silk To Command Terminals]]  #technology #progress #language  #culture [[#history]] #trade
 > A journey from silk production, up to the basics of computing and memory
 
 
