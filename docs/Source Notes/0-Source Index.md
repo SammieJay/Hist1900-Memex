@@ -44,7 +44,14 @@
 ## Memex 3
 
 [[@shipmanSpatialHypertextAlternative1999]]
-> yes
+> An alternate proposition for hypertext and what it could have been
 
 [[@jamesMydoomFascinatingStory2021]]
-> yes
+> The history of one of the most damaging and fast spreading internet viruses
+
+[[@lukasikWhyArpanetWas2011]]
+> The reasoning behind why the ARPANET (an internet precursor) was built
+
+[[@reynoldsHauntingGeoCitiesPolitics2021]]
+> The internet community that fought back against the big bad corporations
+

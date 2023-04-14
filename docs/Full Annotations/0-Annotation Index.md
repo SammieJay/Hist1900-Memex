@@ -72,3 +72,13 @@ Here you can find links and descriptions
 >  How hypertext might have looked if it had a visual mapping component to it
 
 
+[[Why the Arpanet Was Built]]
+>  Source: [[@lukasikWhyArpanetWas2011]]
+>
+>  A look into how what many consider to be the first version of the internet and why it was built in the first place
+
+
+[[The Haunting of GeoCities]]
+> Source: [[@reynoldsHauntingGeoCitiesPolitics2021]]
+> 
+>  How an internet community performed a strike against Yahoo and won

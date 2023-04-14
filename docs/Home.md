@@ -13,8 +13,9 @@ I hope you enjoy your time here, and maybe even learn something along the way!
 
 **Author Info**
 Name: Sam Abraham
-*That's all folks, I don't want to dox myself*
+Date Last Edited: Apr 14, 2023
+*That's all folks, I don't want to dox myself more than this*
 
 **Link to all my outside references**
 [[External Notes]]
-> This is a list of all my references to my peer's memex's
+> This is a list of all my references to my colleagues Memexes
