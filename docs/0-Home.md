@@ -23,8 +23,8 @@ A visual representation of my Memex
 ### Reference Material
 
 **Author Info**
-Name: Sam Abraham
-Date Last Edited: Apr 14, 2023
+Name: Sam Abraham\n
+Date Last Edited: Apr 14, 2023\n
 *That's all folks, I don't want to dox myself more than this*
 
 **Link to all my outside references**
