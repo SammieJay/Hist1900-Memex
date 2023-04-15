@@ -26,12 +26,24 @@ In mass, Geocities users stripped their sites of content and colour, to post ima
 --- 
 
 ### Links
+[[The Internet Vs Oppression]]
+> More on how the internet is a powerful tool against oppresive forces
 
 [[Greed & Capitalism]]
 > How corporate greed can affect the internet
 
 [[How Much I Love The 90s]]
 > More on Geocities as discussed in class
+
+[Manipulation (Eric Desrosiers Memex)](https://glng3r.github.io/memex/%40UMNEvolutionInternet%20folder/Manipulation/#source)
+> About the manipulation employed by large companies around the use of "freemium" pay models in the current day. This kind of model was honestly foreshadowed with this story
+
+[[Corporate Rule On the Internet]]
+> How corporations are ruining the fun for us all
+
+
+
+
 
 
 

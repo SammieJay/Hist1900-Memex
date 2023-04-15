@@ -23,3 +23,6 @@ The internet has brought about some immense levels of connectivity among oppress
 
 [[Media as Historical Subjects]]
 >What is media and how has it had historical impact
+
+[[@reynoldsHauntingGeoCitiesPolitics2021]]
+> How an internet community banded together against oppressive corporate overreach

@@ -4,8 +4,8 @@ date: {{date}}
 type: literature
 project:
 ---
-tags:: 
-projects::[[]]
+tags:: #war #progress #history #capitalism 
+projects:: Memex 2
 
 
 As seen with the development of wireless technology, more robust networks, and many more technologies, wartime has driven many innovations that gave us the technology we rely on today. While WWI and WWII were bloody and merciless conflicts, governments often poured many resources into new research at this time, and this increase in resources gave us many innovations that we take for granted today. Examples include, wireless data transmission, reliable dispersed networks, telegraphy, logic operations (the fundamentals of modern computing), data encryption, and so much more.
@@ -27,3 +27,5 @@ As seen with the development of wireless technology, more robust networks, and m
 [Enigma Machine (Micheal Roy's Memex)](https://themike92.github.io/memex-HIST1900/Thoughts/Cryptology/Enigma%20Machine/)
 > An atomic note about the Enigma machine, a machine built by the British to decipher German encryption from a colleague's Memex
 
+[[@lukasikWhyArpanetWas2011]]
+> How the cold war made the internet

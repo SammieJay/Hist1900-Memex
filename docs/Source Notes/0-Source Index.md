@@ -55,3 +55,6 @@
 [[@reynoldsHauntingGeoCitiesPolitics2021]]
 > The internet community that fought back against the big bad corporations
 
+[[@dickersonWhatMakesInternet2009]]
+> The implications of content moderation legislation on the internet
+

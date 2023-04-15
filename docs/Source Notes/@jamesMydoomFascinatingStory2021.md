@@ -22,4 +22,8 @@ This piece talks about the fastest spreading computer virus/worm in human histor
 --- 
 
 ### Links
-Put any links to separate notes you have teased out here.
+[[Conectivity & Culture]]
+> Talking more about how the internet has affected our culture and what interconnectedness has done for us as a society
+
+[Internet Security (Eric Hobson's Memex)](https://erichobson.com/memex/note/Internet-Security)
+> How we have become more reliant on the internet for valuable personal data and what that means for the security of our data

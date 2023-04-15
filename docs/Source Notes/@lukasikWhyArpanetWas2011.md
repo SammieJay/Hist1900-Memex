@@ -19,7 +19,7 @@ Lukasik, S. 2011 Why the Arpanet Was Built. _IEEE Annals of the History of Compu
 
 The ARPANET is often glorified as the "father of the internet" and while there is some truth to that statement, not many people seem to talk about why it was built in the first place. It was not because people wanted to build an international interconnected information system called the internet, in fact they wanted to make it to protect them from the spooky scary communists.
 
-During the Cold War, the US wanted to be able to quickly communicate over long distances in case the big scary Soviet Union launched a highly explosive neutron making device at them. This meant they invested into a company called APRA, which lead to the creation of the APRANET and it's more military oriented counterpart, MILNET. As we've seen time and time again, war drives innovation.
+During the Cold War, the US wanted to be able to quickly communicate over long distances in case the big scary Soviet Union launched a highly explosive neutron making device at them. This meant they invested into a company called the *U.S. Defence Advanced Research Projects Agency* (DAPRA), which lead to the creation of the APRANET, and it's more military oriented counterpart, MILNET. As we've seen time and time again, war drives innovation.
 
 --- 
 

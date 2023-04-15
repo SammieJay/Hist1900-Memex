@@ -82,3 +82,9 @@ Here you can find links and descriptions
 > Source: [[@reynoldsHauntingGeoCitiesPolitics2021]]
 > 
 >  How an internet community performed a strike against Yahoo and won
+
+
+[[What Makes the Internet so Special]]
+>  Source: [[@dickersonWhatMakesInternet2009]]
+>
+> Content moderation on the internet and it's implications for freedom of expression from a legal perspective

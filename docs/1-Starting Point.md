@@ -7,7 +7,7 @@ There are many things to look through here, let me give you a guiding hand, so y
  [[0-Source Index|Source Notes - Index]] <br>
  Notes that contain references and summaries from the research I've done. Each note relates to a piece of media I took information from. This is where I personally recommend you start.
 
-Notes & Thoughts
+### Notes & Thoughts
  [[0-Notes Index|Notes & Thoughts - Index]] <br>
  Some notes or thoughts I've had on specific ideas from the rresearch I've done A good place to start if you want to learn about specific thoughts on a distinct topic.
 

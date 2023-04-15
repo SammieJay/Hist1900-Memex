@@ -17,7 +17,7 @@ Yet to the men working on it, it was somewhat arbitrary. As we've been discussin
 
 ---
 tags: 
-links:  [[#progress]] 
+links:  #progress 
 - broader terms (BT):  
 - narrower terms (NT):  
 - related terms (RT):  
@@ -55,7 +55,7 @@ As we've seen many a time, war breeds innovation
 
 ---
 tags: 
-links:  [[#war]] [[#progress]] 
+links:  #war #progress
 - broader terms (BT):  
 - narrower terms (NT):  
 - related terms (RT):  
@@ -150,7 +150,7 @@ OOoOooOOOo SPooooOoOoOky COoOoMmMUUuniSssmMmm
 
 ---
 tags: 
-links:  [[#coldwar]] [[#war]] 
+links:  #coldwar #war 
 - broader terms (BT):  
 - narrower terms (NT):  
 - related terms (RT):  
@@ -169,7 +169,7 @@ Fast information transfer means faster response times means we might not go nucl
 
 ---
 tags: 
-links:  [[#war]] 
+links:  #war 
 - broader terms (BT):  
 - narrower terms (NT):  
 - related terms (RT):  
@@ -264,7 +264,7 @@ War driven innovation seems to happen most when the military is like "here's a g
 
 ---
 tags: 
-links:  [[#innovation]] [[#war]] 
+links:  #innovation #war
 - broader terms (BT):  
 - narrower terms (NT):  
 - related terms (RT):  

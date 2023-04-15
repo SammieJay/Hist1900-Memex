@@ -24,3 +24,15 @@
 
 ### Memex 3
 
+[[Corporate Rule On the Internet]]
+> How corporations are running the internet and the implications for it's users
+
+[[Evolving Security on the Internet]]
+> How safe is the information about you? What might happen to it if not kept properly
+
+
+
+
+[[Enshitification Upsets Me]]
+> It really does
+
