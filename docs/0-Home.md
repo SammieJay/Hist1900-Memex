@@ -10,12 +10,14 @@ I hope you enjoy your time here, and maybe even learn something along the way!
 A visual representation of my Memex
 
 ### As of Memex 3
+
 ![[Memex 3 Map.JPG]]
 
 
 ### As of Memex 1 & 2
 
 ![[Memex 2 Map.JPG]]
+
 
 
 ### Reference Material
