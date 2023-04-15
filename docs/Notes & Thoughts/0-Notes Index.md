@@ -1,6 +1,6 @@
 # NOTES & THOUGHTS INDEX
 
-### Memex 2
+### Memex 1 & 2
 [[Greed & Capitalism]]
 >Companies and organizations and their exploitative nature
 
@@ -22,6 +22,7 @@
 [[War Driven Innovation]]
 >How wars drive leaps in technological innovation and what has come of that
 
+
 ### Memex 3
 
 [[Corporate Rule On the Internet]]
@@ -30,8 +31,8 @@
 [[Evolving Security on the Internet]]
 > How safe is the information about you? What might happen to it if not kept properly
 
-
-
+[[Our Age of Misinormation]]
+> Connecting the spread of misinformation to topics discussed in class
 
 [[Enshitification Upsets Me]]
 > It really does
