@@ -7,11 +7,13 @@ I hope you enjoy your time here, and maybe even learn something along the way!
 
 
 ### Memex Content Map
-A visual representation of my Memex
+Visual representations of my Memex
 
-![[Memex 3 Map.JPG]]
+[[Memex 3 Map.JPG|Memex 3 Map]]
+> Map for the 3rd Iteration
 
-To see how my Memex looked before this iteration, go [[Memex 3 Map.JPG|here]]
+[[Memex 2 Map.JPG|Memex 1 & 2 Map]]
+> Map for 1st/2nd Iteration
 
 
 ### Reference Material
@@ -25,5 +27,4 @@ Date Last Edited: Apr 14, 2023
 *That's all folks, I don't want to dox myself more than this*
 
 
-**Link to all my outside references**
-[[2-External Notes|External References]]
+Link to all my [[2-External Notes|External Reference Links]]
