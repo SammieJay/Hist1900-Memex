@@ -11,21 +11,25 @@ A visual representation of my Memex
 
 ### As of Memex 3
 
-
+![[Memex 3 Map.JPG]]
 
 
 ### As of Memex 1 & 2
 
-
+![[Memex 2 Map.JPG]]
 
 
 
 ### Reference Material
 
 **Author Info**
-Name: Sam Abraham\n
-Date Last Edited: Apr 14, 2023\n
+
+Name: Sam Abraham
+
+Date Last Edited: Apr 14, 2023
+
 *That's all folks, I don't want to dox myself more than this*
+
 
 **Link to all my outside references**
 [[2-External Notes|External References]]
