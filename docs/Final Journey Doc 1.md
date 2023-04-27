@@ -28,7 +28,7 @@ We learned about the fate of Geocities in class, an expressive and creative comm
 ### Corporate Rule On The Internet
 [[Corporate Rule On the Internet]]
 
-After writing about the fate of Geocities, I 
+After writing about the fate of Geocities, and how [[Greed & Capitalism]] have been driving forces in the creation and cultural development of the Internet, I was starting to feel resentment. Resentment towards companies for holding the internet back from what it could have been, for attempting to squeeze profit out of online users. I learned about the legislation passed in the 1990s that aimed to control and bend the Internet into submission, without understanding what made it such a special place to begin with. All this led me to write a note that's honestly just me being upset over the current state of the Internet.
 
 
 ### Enshitification Upsets Me
