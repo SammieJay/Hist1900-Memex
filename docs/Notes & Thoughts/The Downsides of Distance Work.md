@@ -19,8 +19,10 @@ Ever since the pandemic, companies have been pushing people to work from home, t
 
 ### Related Links
 
-[[Greed & Capitalism]]
-> How capitalism and greed and what it means for information systems
+[[Corporate Rule On the Internet]]
+> How corporations exploit the user base of the internet for profit
 
 [[Buisness Shennanigans and Information Theory]]
 > The story of Bell and his business. How he conducted work is addressed in these notes
+
+

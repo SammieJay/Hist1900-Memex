@@ -17,8 +17,8 @@ Enshitification is the degradation of a product. It was used in class to describ
 [[Corporate Rule On the Internet]]
 > Corporations and the power they wield online
 
-[[Greed & Capitalism]]
-> Profit driven companies bad
+[[Our Age of Misinormation]]
+> How companies drive misinformation and it's effects on those who use the internet
 
 [[Google... Don't Be Evil]]
 > Google and it's exploitative rise to power online
