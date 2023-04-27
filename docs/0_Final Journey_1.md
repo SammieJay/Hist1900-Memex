@@ -1,7 +1,6 @@
-# The Final Journey
+# The Final Journey (Pt.1)
 
 ### Starting Our Journey
-
 I joined this class thinking I'd learn the ins and outs of how the internet came to be. I'll be leaving with much more than that in ways I didn't expect. One of the important notes to me in my early reading was about how growing up around the internet affected me and the rest of my generation.
 
 
@@ -30,7 +29,10 @@ We learned about the fate of Geocities in class, an expressive and creative comm
 
 After writing about the fate of Geocities, and how [[Greed & Capitalism]] have been driving forces in the creation and cultural development of the Internet, I was starting to feel resentment. Resentment towards companies for holding the internet back from what it could have been, for attempting to squeeze profit out of online users. I learned about the legislation passed in the 1990s that aimed to control and bend the Internet into submission, without understanding what made it such a special place to begin with. All this led me to write a note that's honestly just me being upset over the current state of the Internet.
 
-
 ### Enshitification Upsets Me
 [[Enshitification Upsets Me]]
 
+Enshitification was one of the final concepts discussed in class. Learning about this concept gave me so much clarity towards how I'd been feeling about the degradation of Internet spaces, discussion online, online content, and the state of social spaces on the Internet. With the current state of Twitter especially, it's easy to see enshitification setting in. Under the supervision of Elon Musk the company is desperate to find monetization opportunities for the site. Other media companies aren't far behind. This note is my expression of fatigue and frustration towards the shift away from expressive, creative, and meaningful content from streaming services and media sites. With content across the board becoming much more easily consumable, crowd pleasing, passionless, sugar-filled content.
+
+### In Conclusion
+I have a lot of takeaways from this course, but personally my most powerful one to me is this. The Internet has long been a place for expression, learning, communication, and community, and while we may be moving away from these values, it's not too late. I maintain hope that from the ashes of corporate media conglomerates, thoughtful and creative expression will rise again.
