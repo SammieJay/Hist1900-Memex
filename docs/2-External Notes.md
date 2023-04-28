@@ -12,7 +12,7 @@ Here are all the links to my peer's Memexes that I have included in mine.
 > From: [[@reynoldsHauntingGeoCitiesPolitics2021]]
 
 [Internet Security (Eric Hobson's Memex)](https://erichobson.com/memex/note/Internet-Security)
-> From: [[@jamesMydoomFascinatingStory2021]][[Evolving Security on the Internet]]
+> From: [[@jamesMydoomFascinatingStory2021]] & [[Evolving Security on the Internet]]
 
 [Freemium (Max's Memex)](https://maxthebeast300.github.io/Hist1900memex/thoughts/atomicNotes/Freemium/)
 > From: [[Enshitification Upsets Me]]

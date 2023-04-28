@@ -17,9 +17,10 @@ Visual representations of my Memex
 
 ### My Final Journeys
 Below you can find links that will take you on a journey through my research and what I learned in this course. I hope you enjoy them.
-- What was my most powerful takeaway: [[0_Final Journey_1|Final Journey Pt.1]]
-- What did I expect to learn and what came of that: [[0_Final Journey_2|Final Journey Pt.2]]
 
+- What was my most powerful takeaway: [[0_Final Journey_1|Final Journey Pt.1]]
+  
+- What did I expect to learn and what came of that: [[0_Final Journey_2|Final Journey Pt.2]]
 
 ### Reference Material
 
@@ -31,5 +32,4 @@ Date Last Edited: Apr 14, 2023
 
 *That's all folks, I don't want to dox myself more than this*
 
-
-Link to all my [[2-External Notes|External Reference Links]]
+Link to all my [[2-External Notes|External References]]

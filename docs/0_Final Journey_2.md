@@ -26,7 +26,7 @@ This research note describes an alternative proposition for hypertext. One based
 ### Our Age of Misinformation
 [[Our Age of Misinormation]]
 
-This note is probably the longest piece of writing in my whole Memex. I had a lot to say about the state of information sharing in our current world, about how information could be presented in so many better ways than we got, and how it's had negative effects on the world we live in. At this point I've gone long past my expectations for the course in multiple subject matters, but there's no doubt in my mind that this was entirely intentional.
+This note is probably the longest piece of writing in my whole Memex. I had a lot to say about the state of information sharing in our current world. About how information could be presented in so many better ways than we got and how it's had negative effects on the world we live in. At this point, I've gone long past my expectations for the course in multiple subject matters, but there's no doubt in my mind that this was entirely intentional on the part of our Prof.
 
 ### In Conclusion
-I went into this course hoping to learn a bit about the physical structures of the internet, and maybe a bit about its sub-cultures. Yet I came away having learned a range of topics from imperialism & capitalism, to the printing press and how misinformation is spread online. It's been quite the journey (*wink*), and I've enjoyed every step of it.
+I went into this course hoping to learn a bit about the physical structures of the internet, and maybe a bit about its sub-cultures. Yet I came away having learned a range of topics from imperialism/capitalism, to the printing press and how misinformation is spread online. It's been quite the journey (*wink*), and I've enjoyed every step of it.
