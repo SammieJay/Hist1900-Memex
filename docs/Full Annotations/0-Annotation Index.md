@@ -46,7 +46,7 @@ Here you can find links and descriptions
 > 
 >Where should the priorities of the internet lie, and what is its role?
 
-[[Hist1900-Memex/docs/Full Annotations/The Internet and Youth Culture]]
+[[The Internet and Youth Culture]]
 > Source: [[@meschInternetYouthCulture2009]]
 > 
 >Dissecting how the internet affects youth culture today

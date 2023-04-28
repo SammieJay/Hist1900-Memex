@@ -15,6 +15,11 @@ Visual representations of my Memex
 [[Memex 2 Map.JPG|Memex 1 & 2 Map]]
 > Map for 1st/2nd Iteration
 
+### My Final Journeys
+Below you can find links that will take you on a journey through my research and what I learned in this course. I hope you enjoy them.
+- What was my most powerful takeaway: [[0_Final Journey_1|Final Journey Pt.1]]
+- What did I expect to learn and what came of that: [[0_Final Journey_2|Final Journey Pt.2]]
+
 
 ### Reference Material
 

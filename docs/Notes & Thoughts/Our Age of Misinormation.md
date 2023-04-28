@@ -20,8 +20,6 @@ This has to change, yet I have little hope that it will.
 ---
 
 ### Related Links
-[[Sliding Into Hypertext and the Web]]
-> The history of Hypertext and what it could have been
 
 [[@shipmanSpatialHypertextAlternative1999]]
 > An example of an alternative to hypertext
